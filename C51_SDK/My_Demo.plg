@@ -1,0 +1,1288 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\shlm\Desktop\c_project\My_demo\My_Demo.uvproj
+Project File Date:  04/28/2021
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  MAIN
+    MODULE:  E:\KEIL\C51\LIB\C51S.LIB (?C_INIT)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  MAIN
+    MODULE:  E:\KEIL\C51\LIB\C51S.LIB (?C_INIT)
+    ADDRESS: 0010H
+Program Size: data=10.0 xdata=0 code=236
+"My_Demo" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  MAIN
+    MODULE:  E:\KEIL\C51\LIB\C51S.LIB (?C_INIT)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  MAIN
+    MODULE:  E:\KEIL\C51\LIB\C51S.LIB (?C_INIT)
+    ADDRESS: 0010H
+Program Size: data=10.0 xdata=0 code=236
+"My_Demo" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L1: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  MAIN
+    MODULE:  E:\KEIL\C51\LIB\C51S.LIB (?C_INIT)
+*** WARNING L2: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  MAIN
+    MODULE:  E:\KEIL\C51\LIB\C51S.LIB (?C_INIT)
+    ADDRESS: 0010H
+Program Size: data=10.0 xdata=0 code=236
+"My_Demo" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+Program Size: data=10.0 xdata=0 code=108
+"My_Demo" - 0 Error(s), 1 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+Program Size: data=10.0 xdata=0 code=108
+"My_Demo" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 code=16
+"My_Demo" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 code=16
+"My_Demo" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 code=16
+"My_Demo" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+Program Size: data=9.0 xdata=0 code=16
+"My_Demo" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+Program Size: data=9.0 xdata=0 code=16
+"My_Demo" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_STRING?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?LCD1602_DISPLAY_INIT?MYDEMO
+Program Size: data=9.0 xdata=0 code=351
+"My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(124): error C202: 'fsdf': undefined identifier
+MyDemo.c(124): error C141: syntax error near 'Lcd1602_write_com'
+Target not created
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_STRING?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?LCD1602_DISPLAY_INIT?MYDEMO
+Program Size: data=9.0 xdata=0 code=351
+"My_Demo" - 0 Error(s), 5 Warning(s).
+Clean started: Project: 'My_Demo'
+   deleting intermediate output files for target 'Target 1'
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_STRING?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?LCD1602_DISPLAY_INIT?MYDEMO
+Program Size: data=9.0 xdata=0 code=351
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Clean started: Project: 'My_Demo'
+   deleting intermediate output files for target 'Target 1'
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_STRING?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?LCD1602_DISPLAY_INIT?MYDEMO
+Program Size: data=9.0 xdata=0 code=351
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=9.0 xdata=0 code=373
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=9.0 xdata=0 code=377
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=485
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+MyDemo.h(9): error C202: 'P2': undefined identifier
+MyDemo.h(10): error C202: 'P2': undefined identifier
+MyDemo.h(11): error C202: 'P2': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=485
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(44): error C202: 'e': undefined identifier
+MyDemo.c(46): error C202: 'e': undefined identifier
+MyDemo.c(57): error C202: 'e': undefined identifier
+MyDemo.c(58): error C202: 'rs': undefined identifier
+MyDemo.c(59): error C202: 'rw': undefined identifier
+MyDemo.c(62): error C202: 'e': undefined identifier
+MyDemo.c(64): error C202: 'e': undefined identifier
+compiling main.c...
+Target not created
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=485
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=485
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=485
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=485
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(15): error C141: syntax error near 'com', expected ')'
+main.c(20): error C202: 'com': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(22): warning C206: 'delay_uint': missing function-prototype
+main.c(22): error C267: 'delay_uint': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_COM?MAIN
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRITE_DATA?MAIN
+Program Size: data=9.2 xdata=0 code=533
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_WRITE_COM?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_WRITE_DATA?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=21.2 xdata=0 code=619
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 6 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_WRITE_COM?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_WRITE_DATA?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=21.2 xdata=0 code=619
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=485
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=485
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(140): error C202: 'Set': undefined identifier
+MyDemo.c(142): error C202: 'Set': undefined identifier
+MyDemo.c(145): error C202: 'Set': undefined identifier
+MyDemo.c(148): error C202: 'Add': undefined identifier
+MyDemo.c(151): error C202: 'Add': undefined identifier
+MyDemo.c(154): error C202: 'Cut': undefined identifier
+MyDemo.c(157): error C202: 'Cut': undefined identifier
+MyDemo.c(159): error C202: 'Manual': undefined identifier
+MyDemo.c(162): error C202: 'Manual': undefined identifier
+MyDemo.c(164): error C202: 'Save': undefined identifier
+MyDemo.c(167): error C202: 'Save': undefined identifier
+MyDemo.c(169): error C202: 'Del': undefined identifier
+MyDemo.c(172): error C202: 'Del': undefined identifier
+compiling main.c...
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=485
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?KEY_TEST?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=486
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(138): error C202: 'Demo_KEY1': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?KEY_TEST?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=486
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(138): error C202: 'Demo_KEYsfsd': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?KEY_TEST?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=9.2 xdata=0 code=486
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(147): error C202: 'Demo_KEYi': undefined identifier
+MyDemo.c(150): error C202: 'Demo_KEYi': undefined identifier
+MyDemo.c(153): error C202: 'Demo_KEYi': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(147): error C202: 'Demo_KEYi': undefined identifier
+MyDemo.c(150): error C202: 'Demo_KEYi': undefined identifier
+MyDemo.c(153): error C202: 'Demo_KEYi': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(141): error C141: syntax error near 'void'
+MyDemo.c(142): error C231: '_Key_value_Demo': redefinition
+MyDemo.c(142): error C141: syntax error near '{'
+MyDemo.c(145): error C141: syntax error near 'for'
+MyDemo.c(145): error C141: syntax error near '=', expected ')'
+MyDemo.c(145): error C129: missing ';' before '<='
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(147): error C202: 'Demo_KEYarry': undefined identifier
+MyDemo.c(150): error C202: 'Demo_KEYi': undefined identifier
+MyDemo.c(153): error C202: 'Demo_KEYi': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(147): error C202: 'Demo_KEY': undefined identifier
+MyDemo.c(147): error C141: syntax error near '#'
+MyDemo.c(150): error C202: 'Demo_KEYi': undefined identifier
+MyDemo.c(153): error C202: 'Demo_KEYi': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(147): error C202: 'Demo_KEY': undefined identifier
+MyDemo.c(147): error C141: syntax error near '#'
+MyDemo.c(150): error C202: 'Demo_KEYi': undefined identifier
+MyDemo.c(153): error C202: 'Demo_KEYi': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(147): error C202: 'Demo_KEY': undefined identifier
+MyDemo.c(147): error C141: syntax error near ''i''
+MyDemo.c(150): error C202: 'Demo_KEYi': undefined identifier
+MyDemo.c(153): error C202: 'Demo_KEYi': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(148): error C141: syntax error near '{'
+MyDemo.c(150): error C202: 'Demo_KEYi': undefined identifier
+MyDemo.c(153): error C202: 'Demo_KEYi': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(148): error C141: syntax error near '{'
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(141): warning C280: 'key_Process': unreferenced local variable
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=13.2 xdata=0 code=527
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(147): error C202: 'Demo_KEY': undefined identifier
+MyDemo.c(147): error C141: syntax error near '<string>'
+MyDemo.c(147): error C141: syntax error near ')'
+MyDemo.c(150): error C202: 'Demo_KEY': undefined identifier
+MyDemo.c(150): error C141: syntax error near '<string>'
+MyDemo.c(150): error C141: syntax error near ')'
+MyDemo.c(153): error C202: 'Demo_KEY': undefined identifier
+MyDemo.c(153): error C141: syntax error near '<string>'
+MyDemo.c(153): error C141: syntax error near ')'
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(147): error C202: 'Demo_KEY': undefined identifier
+MyDemo.c(147): error C141: syntax error near '<string>'
+MyDemo.c(147): error C141: syntax error near ')'
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(141): warning C280: 'key_Process': unreferenced local variable
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=13.2 xdata=0 code=521
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(165): error C202: 'Set': undefined identifier
+MyDemo.c(167): error C202: 'Set': undefined identifier
+MyDemo.c(170): error C202: 'Set': undefined identifier
+MyDemo.c(173): error C202: 'Add': undefined identifier
+MyDemo.c(176): error C202: 'Add': undefined identifier
+MyDemo.c(179): error C202: 'Cut': undefined identifier
+MyDemo.c(182): error C202: 'Cut': undefined identifier
+MyDemo.c(184): error C202: 'Manual': undefined identifier
+MyDemo.c(187): error C202: 'Manual': undefined identifier
+MyDemo.c(189): error C202: 'Save': undefined identifier
+MyDemo.c(192): error C202: 'Save': undefined identifier
+MyDemo.c(194): error C202: 'Del': undefined identifier
+MyDemo.c(197): error C202: 'Del': undefined identifier
+Target not created
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=577
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=577
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(148): warning C206: 'Demo_KEYP': missing function-prototype
+MyDemo.c(148): error C267: 'Demo_KEYP': requires ANSI-style prototype
+MyDemo.c(206): error C237: '_Key_value_Demo': function already has a body
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(149): warning C206: 'Demo_KEYP': missing function-prototype
+MyDemo.c(149): error C267: 'Demo_KEYP': requires ANSI-style prototype
+MyDemo.c(207): error C237: '_Key_value_Demo': function already has a body
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(149): warning C206: 'Demo_KEYP': missing function-prototype
+MyDemo.c(149): error C267: 'Demo_KEYP': requires ANSI-style prototype
+MyDemo.c(207): error C237: '_Key_value_Demo': function already has a body
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(149): warning C206: 'Demo_KEY': missing function-prototype
+MyDemo.c(149): error C267: 'Demo_KEY': requires ANSI-style prototype
+MyDemo.c(207): error C237: '_Key_value_Demo': function already has a body
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(149): error C202: 'Demo_KEY': undefined identifier
+MyDemo.c(149): error C141: syntax error near '<string>'
+MyDemo.c(149): error C141: syntax error near ')'
+MyDemo.c(207): error C237: '_Key_value_Demo': function already has a body
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=577
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=577
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(178): warning C314: bad #directive syntax
+MyDemo.c(872): warning C316: unterminated conditionals
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=577
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 7 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=577
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(176): error C202: 'fdsf': undefined identifier
+MyDemo.c(176): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=577
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=577
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=517
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=517
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=529
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=541
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=553
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=565
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_KEY_VALUE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=10.2 xdata=0 code=541
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=11.2 xdata=0 code=704
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=11.2 xdata=0 code=757
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=11.2 xdata=0 code=757
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=11.2 xdata=0 code=757
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+Program Size: data=11.2 xdata=0 code=757
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAYMS_DS1302?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_READ_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_SAVE?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_WRITE_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_SET_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DS1302_INIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DS18B20_READ_TEMP?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_BYTE_READ_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SECTORERASE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_BYTE_WRITE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_RDEEPROM_24C02_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRTEEPROM_24C02_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_TIMER2_INIT_DEMO?MYDEMO
+Program Size: data=20.4 xdata=0 code=2580
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 17 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAYMS_DS1302?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_READ_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_SAVE?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_WRITE_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_SET_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DS1302_INIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DS18B20_READ_TEMP?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_BYTE_READ_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SECTORERASE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_BYTE_WRITE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_RDEEPROM_24C02_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRTEEPROM_24C02_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_TIMER2_INIT_DEMO?MYDEMO
+Program Size: data=20.4 xdata=0 code=2580
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 17 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+MyDemo.c(617): error C231: 'dq': redefinition
+compiling main.c...
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAYMS_DS1302?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_READ_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_SAVE?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_WRITE_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_SET_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DS1302_INIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DS18B20_READ_TEMP?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_BYTE_READ_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SECTORERASE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_BYTE_WRITE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_RDEEPROM_24C02_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRTEEPROM_24C02_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_TIMER2_INIT_DEMO?MYDEMO
+Program Size: data=20.4 xdata=0 code=2580
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 17 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?ADC0832_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAYMS_DS1302?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_READ_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_SAVE?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_WRITE_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DS1302_SET_TIME?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DS1302_INIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?DS18B20_READ_TEMP?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_BYTE_READ_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SECTORERASE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_BYTE_WRITE_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_RDEEPROM_24C02_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_WRTEEPROM_24C02_DEMO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_TIMER2_INIT_DEMO?MYDEMO
+Program Size: data=20.4 xdata=0 code=2580
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 17 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=11.0 xdata=0 code=649
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=11.0 xdata=0 code=649
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=11.0 xdata=0 code=649
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_TIMER2_INIT_DEMO?MYDEMO
+Program Size: data=15.0 xdata=0 code=750
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+main.c(30): error C141: syntax error near 'Timer2_Process'
+Target not created
+Build target 'Target 1'
+compiling main.c...
+main.c(33): warning C206: 'Timer2_init_Demo': missing function-prototype
+main.c(33): error C267: 'Timer2_init_Demo': requires ANSI-style prototype
+Target not created
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=15.0 xdata=0 code=760
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=15.0 xdata=0 code=762
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=15.0 xdata=0 code=762
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=15.0 xdata=0 code=762
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=15.0 xdata=0 code=762
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).
+Rebuild target 'Target 1'
+assembling STARTUP.A51...
+compiling MyDemo.c...
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_TWO_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_THREE_BIT?MYDEMO
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD1602_DISPLAY_GUANBIAO?MYDEMO
+Program Size: data=15.0 xdata=0 code=762
+creating hex file from ".\out\My_Demo"...
+".\out\My_Demo" - 0 Error(s), 3 Warning(s).

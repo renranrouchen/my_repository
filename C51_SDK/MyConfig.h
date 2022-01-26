@@ -1,0 +1,44 @@
+#ifndef _MYCONFIG_H_
+#define _MYCONFIG_H_
+
+#define ENABLED              1
+#define DISABLED             0
+
+#define CONFIG_UTRL	   				 	ENABLED
+#define CONFIG_LCD1602 					DISABLED
+#define CONFIG_KEY     					DISABLED
+#define CONFIG_ADC0832 					DISABLED
+#define CONFIG_DS1302  					DISABLED
+#define CONFIG_DS18b02 					DISABLED
+#define CONFIG_EEPROM  					DISABLED
+#define CONFIG_24C02   					DISABLED
+#define CONFIG_Timer2  					DISABLED
+#define CONFIG_Timer0  					DISABLED
+#define CONFIG_UART0   					DISABLED
+#define CONFIG_KEY_MAP 					DISABLED
+#define CONFIG_HX711	 					DISABLED
+#define CONFIG_HRSR04	 					DISABLED
+#define CONFIG_MP3_TF	 					DISABLED
+#define CONFIG_SHT11	 					DISABLED
+#define CONFIG_DHT11	 					DISABLED
+#define CONFIG_LCD12864_LIB	   	DISABLED
+#define CONFIG_ESP8266          DISABLED
+#define CONFIG_ISD4004          DISABLED
+#define CONFIG_FUZZIFY          DISABLED
+#define CONFIG_EX0_EX1					DISABLED
+#define CONFIG_LCD12864					DISABLED
+#define CONFIG_IRSEND 					DISABLED
+#define CONFIG_IR_REVICE 				DISABLED
+#define CONFIG_DS18B20_MULT 		DISABLED
+#define CONFIG_LCD12864_PLUS    DISABLED
+#define CONFIG_KEY_MAP_2        DISABLED
+#define CONFIG_MAX6675          DISABLED
+#define CONFIG_GSM              DISABLED
+#define CONFIG_STEPMOTO         DISABLED
+#define CONFIG_7BIT_4_LED       DISABLED
+#define CONFIG_BULETOOTH        DISABLED
+#define CONFIG_PCF8591          DISABLED
+#define CONFIG_SPEAK_RING       DISABLED
+#define CONFIG_RC522            DISABLED
+#define CONFIG_MPU6050          DISABLED
+#endif
